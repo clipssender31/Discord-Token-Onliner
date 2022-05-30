@@ -2,7 +2,7 @@
 Simple Script to mass online discord tokens
 
 
-lmfao
+
 
 # Contact 
 * Discord Server - https://discord.gg/wrNbhMeQeW
